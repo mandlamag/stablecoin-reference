@@ -1,4 +1,7 @@
-/**
+pragma solidity ^0.4.24;
+import "./AllowanceSheet.sol";
+import "./BalanceSheet.sol";/**
+
 * @title TokenStorage
 */
 contract TokenStorage {

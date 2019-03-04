@@ -1,6 +1,6 @@
 pragma solidity ^0.4.24;
 import "openzeppelin-solidity/contracts/math/SafeMath.sol";
-import '../../helpers/Ownable.sol';
+import './helpers/Ownable.sol';
 /**
 * @title AllowanceSheet
 * @notice A wrapper around an allowance mapping. 
